@@ -100,7 +100,7 @@ header {
 .search {
   width: 0;
   height: 40px;
-  background: url(./tools/images/icons8-検索-50.png) left center no-repeat;
+  background: url(tools/images/icons8-検索-50.png) left center no-repeat;
   background-size: 26px 26px;
   padding-left: 30px;
   font-size: 16px;
@@ -121,7 +121,7 @@ header {
 }
 
 .main-picture {
-  background-image: url(../3rd/tools/images/cropped-nicole-honeywill-730102-unsplash.jpg);
+  background-image: url(tools/images/cropped-nicole-honeywill-730102-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;
@@ -213,7 +213,7 @@ header {
 }
 
 .profile-picture {
-  background-image: url(../3rd/tools/images/profile-m.png);
+  background-image: url(tools/images/profile-m.png);
   background-position: center;
   background-size: cover;
   width: 100px;
